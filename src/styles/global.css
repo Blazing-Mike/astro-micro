@@ -26,6 +26,7 @@ body {
 
 header {
   @apply fixed left-0 right-0 top-0 z-50 py-6;
+  @apply backdrop-blur-md backdrop-filter ;
 }
 
 main {
